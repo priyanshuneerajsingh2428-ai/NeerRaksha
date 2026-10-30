@@ -1,0 +1,4 @@
+village,report_date,symptoms,case_count,reporter_role,age_band
+Demo Village A,2026-10-30,"[""diarrhea"", ""vomiting""]",4,asha,adult
+Demo Village A,2026-10-28,"[""fever"", ""nausea""]",2,clinic,child
+Demo Village B,2026-10-29,"[""abdominal_pain""]",1,volunteer,adult
